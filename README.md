@@ -2,6 +2,6 @@
 
 ## Demo für einen Merge Konflikt
 
-### Ich will Konflikte!!!!!
+# Ich brauche hilfe bitte helfen sie mir!
 
-## Ich bin ein Konflikt und will gelöst werden
+## Hallo ich bin der diesmal als Konflikt löser genommen wird
